@@ -1,6 +1,6 @@
 # Best neighborhood for a New Coffee Shop in Toronto
 #### Problem
-Toronto is a large city with many neighborhoods, each with its own unique characteristics. For a new coffee shop, it is crucial to choose a district that offers the best business opportunities while minimizing competition. This project will analyze the existing coffee shop distribution, population density, and other venue categories to identify the best district for a new coffee shop.
+Toronto is a large city with many neighborhoods, each with its own unique characteristics. For a new coffee shop, it is crucial to choose a district that offers the best business opportunities while minimizing competition. This project will analyze the existing coffee shop distribution, population density, and other venue categories to identify the best neighborhood for a new coffee shop.
 
 #### Data
 The analysis will be based on the following data sources:</br>
@@ -28,20 +28,19 @@ The analysis will be based on the following data sources:</br>
    - Define Foursquare API credentials and version
 
 5. Explore First District in the Dataframe
-   - Get the district's name, latitude, and longitude values
+   - Get the neighborhoods's name, latitude, and longitude values
    - Create a GET request URL for Foursquare API to get top 100 venues within a radius of 500 meters
    - Send the GET request and examine the results
    - Clean the JSON response and structure it into a pandas dataframe
 
 6. Explore All postal codes in Toronto
    - Create a function to repeat the process for all postal codes
-   - Run the function to get venues for each district and create a new dataframe called district_venues
+   - Run the function to get venues for each neighborhoods and create a new dataframe 
    - Check the properties of the resulting dataframe (size, number of venues, unique categories)
 
-7. Examine Each District
-   - Perform one hot encoding on the venue categories
+7. Examine Each neighborhood
    - Group rows by district and calculate the mean frequency of occurrence of each category
-   - Print each district along with the top 5 most common venues
+   - Print each neighborhood along with the top 5 most common venues
    - Create a new dataframe with venues in descending order
 
 8. Cluster postal codes
