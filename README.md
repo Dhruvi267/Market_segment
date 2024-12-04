@@ -1,13 +1,6 @@
 # Best neighborhood for a New Coffee Shop in Toronto
-### Introduction
-#### Background
-Toronto, the capital city of Ontario, is a bustling metropolis with a diverse population and a vibrant coffee culture. With numerous neighborhoods, each offering unique characteristics and opportunities, choosing the best district for a new coffee shop can be challenging. This project aims to identify the optimal district for opening a new coffee shop in Toronto by analyzing various factors such as existing coffee shops, population density, and venue categories.
-
 #### Problem
 Toronto is a large city with many neighborhoods, each with its own unique characteristics. For a new coffee shop, it is crucial to choose a district that offers the best business opportunities while minimizing competition. This project will analyze the existing coffee shop distribution, population density, and other venue categories to identify the best district for a new coffee shop.
-
-#### Stakeholders
-This analysis will be valuable for potential investors, entrepreneurs, and business owners interested in opening a new coffee shop in Toronto. Additionally, city planners and local authorities can use this analysis to understand the distribution of coffee shops and other venues across the city.
 
 #### Data
 The analysis will be based on the following data sources:</br>
