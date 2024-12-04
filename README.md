@@ -4,7 +4,7 @@ Toronto is a large city with many neighborhoods, each with its own unique charac
 
 #### Data
 The analysis will be based on the following data sources:</br>
-   - Wikipedia: To obtain postal code data, including names of neighborhoods, boroughs, and geographical coordinates.</br>
+   - Wikipedia: To obtain postal code data, including names of neighborhoods, boroughs, and geographical coordinates. https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M</br>
    - OpenCage Geocoder API: To look up the latitudes and longitudes of all neighborhoods.</br>
    - Foursquare API: To obtain the number of coffee shops, their types, and locations in all neighborhoods.</br>
    - Population Data: To get the population density of each neighborhood. https://bit.ly/3airrOJ</br>
