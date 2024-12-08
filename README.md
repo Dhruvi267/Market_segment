@@ -30,18 +30,20 @@ The analysis will be based on the following data sources:</br>
    - Plot the top income postal codes/Neighborhoods.
    - Plot the top populated postal codes/Neighborhoods.
 8. Setup the API credentials.
-9. Get top 100 venues within Radius of 500 Meters of each postal code from Foursquare API.
+9. Call the API to count the number of cafes with in 500 meters of each postal code lat/lon.
+   - Plot the Top 10 and the bottom 10 counts of coffee shops on the map using different colors for High and low counts.
+9. Get top 100 places within Radius of 500 Meters of each postal code from Google API.
    - Create a function to get - 'venue.name', 'venue.categories', 'venue.location.lat', 'venue.location.lng'.
    - Create a data frame each for all the post codes using the get function.
    - Combine all post code data frames to make one that stores - Neighborhoods/postal code,Latitude, Longitude, Venue name,Venue Latitude, Venue Longitude, Venue Category.
    - Plot the top count of coffee shops per postal codes/Neighborhoods.
-9. Explore the Neighborhoods/postal code:
+10. Explore the Neighborhoods/postal code:
    - Create a data frame with Top 5 Most Common (frequency of) Venues for each postal code.
    - Plot this as a chart.
    - Create a data frame that store the top 10 venue categories for each postal code.
    - Plot this as a chart.
-10. Cluster the results:
+11. Cluster the results:
    - Use K-mean to cluster and create data frames for each postcode/Neighborhood.
    - Neighborhood data frame to have - Postal code, Population, Income,  a column each for the the top 10 Common Venue category.
    - Draw an phrase that describes each Neighborhood as per the clustered data frame.
-11. Discuss and conclude - listing out the options to open a new coffee shop.
+12. Discuss and conclude - listing out the options to open a new coffee shop.
