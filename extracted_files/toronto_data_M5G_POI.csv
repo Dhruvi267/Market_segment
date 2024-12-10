@@ -17,20 +17,20 @@ M5G,43.6561,-79.3802,meal_delivery,Salad King
 M5G,43.6561,-79.3802,bank,CIBC Branch with ATM
 M5G,43.6561,-79.3802,department_store,Canadian Tire
 M5G,43.6561,-79.3802,liquor_store,LCBO
-M5G,43.6561,-79.3802,establishment,Yonge-Dundas Square
+M5G,43.6561,-79.3802,point_of_interest,Yonge-Dundas Square
 M5G,43.6561,-79.3802,neighborhood,Downtown Toronto
 M5G,43.6561,-79.3802,hospital,Patient Networks Family Medicine Walk In Clinic
 M5G,43.6561,-79.3802,spa,Elmwood Spa
-M5G,43.6561,-79.3802,establishment,Massey Hall
+M5G,43.6561,-79.3802,point_of_interest,Massey Hall
 M5G,43.6561,-79.3802,electronics_store,Apple Eaton Centre
 M5G,43.6561,-79.3802,finance,Calforex Currency Exchange-Toronto Downtown
-M5G,43.6561,-79.3802,store,The UPS Store
+M5G,43.6561,-79.3802,point_of_interest,The UPS Store
 M5G,43.6561,-79.3802,electronics_store,chatr Mobile
-M5G,43.6561,-79.3802,hair_care,Terminal Barber Shop
+M5G,43.6561,-79.3802,health,Terminal Barber Shop
 M5G,43.6561,-79.3802,lodging,Canada Suites
 M5G,43.6561,-79.3802,bar,3 Brasseurs - Toronto
-M5G,43.6561,-79.3802,establishment,Elgin & Winter Garden Theatres
-M5G,43.6561,-79.3802,establishment,Ontario Municipal Board
+M5G,43.6561,-79.3802,point_of_interest,Elgin & Winter Garden Theatres
+M5G,43.6561,-79.3802,point_of_interest,Ontario Municipal Board
 M5G,43.6561,-79.3802,lodging,DoubleTree by Hilton Hotel Toronto Downtown
 M5G,43.6561,-79.3802,bar,The Queen & Beaver Public House
 M5G,43.6561,-79.3802,lodging,Toronto Furnished Living-Gerard
@@ -46,16 +46,16 @@ M5G,43.6561,-79.3802,jewelry_store,Diamonds For Less
 M5G,43.6561,-79.3802,electronics_store,Best Buy Express
 M5G,43.6561,-79.3802,restaurant,Chipotle Mexican Grill
 M5G,43.6561,-79.3802,library,Toronto Public Library - City Hall Branch
-M5G,43.6561,-79.3802,establishment,Covenant House Toronto
+M5G,43.6561,-79.3802,point_of_interest,Covenant House Toronto
 M5G,43.6561,-79.3802,meal_takeaway,Yueh Tung Restaurant
 M5G,43.6561,-79.3802,restaurant,Kyoto House
 M5G,43.6561,-79.3802,restaurant,Trattoria Mercatto
 M5G,43.6561,-79.3802,veterinary_care,The Animal Clinic
-M5G,43.6561,-79.3802,establishment,CAA Ed Mirvish Theatre
+M5G,43.6561,-79.3802,point_of_interest,CAA Ed Mirvish Theatre
 M5G,43.6561,-79.3802,restaurant,Hokkaido Ramen Santouka
 M5G,43.6561,-79.3802,bicycle_store,Sport Chek
 M5G,43.6561,-79.3802,department_store,HomeSense
-M5G,43.6561,-79.3802,tourist_attraction,Toronto Old City Hall
-M5G,43.6561,-79.3802,establishment,Club Zanzibar
+M5G,43.6561,-79.3802,city_hall,Toronto Old City Hall
+M5G,43.6561,-79.3802,point_of_interest,Club Zanzibar
 M5G,43.6561,-79.3802,tourist_attraction,Nathan Phillips Square
 M5G,43.6561,-79.3802,bar,KINKA IZAKAYA ORIGINAL
