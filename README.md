@@ -1,18 +1,18 @@
 # Best neighborhood for a New Cafe in Toronto
-#### Problem
+#### The Problem
 Toronto has many neighborhoods, each with its own unique characteristics. The task was to  choose a neighborhood that offers the best business opportunities, a healthy customer base, while minimizing competition.
 #### The Objective
 - To analyze the spread of other types of businesses, existing competition, population density and median household income with in each neighborhood.
 - To perform a comprehensive data analysis and come up with a MVP as the first iteration.
 - To obtain relevant data from credible data sources, create a code that can be reused independent of the data sources, code that is scale-able, and flexible enough for future
 - To Suggest three of Toronto’s postal codes, where a new cafe business shall be profitable.
-#### Data
+#### The Data Sources
 The analysis will be based on the following data sources:</br>
    - Wikipedia: To obtain postal code data : [List of postal codes of Canada: M](https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)</br>
    - Population data : [Population and dwelling counts: Canada and forward sortation areas](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810001901)</br>
    - Income data: Data: [Census Profile, 2021 Census of Population(Forward sortation areas (FSAs))](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger.cfm?Lang=E)</br>
    - Google Places API : [Nearby places](https://developers.google.com/maps/documentation/places/web-service/supported_types?_gl=1*gb02v5*_up*MQ..*_ga*MTY4MjAzNTA0MS4xNzMzNjg2NTMz*_ga_NRWSTWS78N*MTczMzY4NjUzMi4xLjEuMTczMzY4Nzk5Ni4wLjAuMA..)</br>
-#### Approach
+#### The Approach
 1. **Scrape Postal Code Data**
    - Scrape postal code data of Toronto from Wikipedia.
    - Clean and save the postal code data into a data frame.
