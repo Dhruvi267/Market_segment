@@ -2,10 +2,10 @@
 #### Problem
 Toronto has many neighborhoods, each with its own unique characteristics. The task was to  choose a neighborhood that offers the best business opportunities, a healthy customer base, while minimizing competition.
 #### The Objective
-    - To analyze the spread of other types of businesses, existing competition, population density and median household income with in each neighborhood.
-    - To perform a comprehensive data analysis and come up with a MVP as the first iteration.
-    - To obtain relevant data from credible data sources, create a code that can be reused independent of the data sources, code that is scale-able, and flexible enough for future
-    - To Suggest three of Toronto’s postal codes, where a new cafe business shall be profitable.
+- To analyze the spread of other types of businesses, existing competition, population density and median household income with in each neighborhood.
+- To perform a comprehensive data analysis and come up with a MVP as the first iteration.
+- To obtain relevant data from credible data sources, create a code that can be reused independent of the data sources, code that is scale-able, and flexible enough for future
+- To Suggest three of Toronto’s postal codes, where a new cafe business shall be profitable.
 #### Data
 The analysis will be based on the following data sources:</br>
    - Wikipedia: To obtain postal code data : [List of postal codes of Canada: M](https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)</br>
