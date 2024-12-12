@@ -1,4 +1,4 @@
-Postal Code,Borough,Neighborhood,Latitude,Longitude,Population,Average Income,Cafe Counts,Cafe Names
+Postal Code,Borough,Neighborhood,Latitude,Longitude,Population,Median Household Income,Cafe Counts,Cafe Names
 M1B,Scarborough,Malvern / Rouge,43.8113,-79.193,65555.0,69126.0,0,
 M1C,Scarborough,Rouge Hill / Port Union / Highland Creek,43.7878,-79.1564,35642.0,109785.0,0,
 M1E,Scarborough,Guildwood / Morningside / West Hill,43.7678,-79.1866,48033.0,62047.0,4,"Tim Hortons, Eggsmart, McDonald's, Mr. Puffs"
